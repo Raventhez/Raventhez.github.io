@@ -21,7 +21,7 @@
 title: NCS Website
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test website for creating a website.
+  This is a test website for creating a website. Testing
 url: "https://raventhez.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
