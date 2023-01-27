@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data"
-permalink: https://Raventhez.github.io/Data
+permalink: /Data/
 group: navigation
 ---
 Testing Testing Testing
